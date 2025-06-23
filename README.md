@@ -14,6 +14,7 @@ This demo repository serves as a practical example for learning and demonstratin
 
 - demo-repo updated from feature 1 Demo
 - Updated for demo on 2nd June
+- Updated for demo on 23rd June
 
 ## Features
 
